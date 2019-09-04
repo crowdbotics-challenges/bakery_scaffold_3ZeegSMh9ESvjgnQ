@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.org/crowdbotics-challenges/bakery_scaffold_3ZeegSMh9ESvjgnQ/builds/580554038)
+[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.com/crowdbotics-challenges/bakery_scaffold_3ZeegSMh9ESvjgnQ/builds/125836153)
+
 
 
 
